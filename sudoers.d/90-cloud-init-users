@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.2-0ubuntu1~20.04.3 on Thu, 14 Jul 2022 07:31:55 +0000
+
+# User rules for fourikibriki
+fourikibriki ALL=(ALL) NOPASSWD:ALL
